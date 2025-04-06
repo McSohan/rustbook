@@ -1,6 +1,6 @@
 use rand::Rng;
+// this is just a "trait" and it needs to be in focus for us to use the methods defined by rand
 use std::io;
-// this is jsut a "trait" and it needs to be in focus for us to use the methods defined by rand
 use std::cmp::Ordering;
 // Bringing a type called std::cmp::Ordering into scope from the standard library.
 
